@@ -5,9 +5,9 @@
   <h3 align="left">brodie.croyle</h3>
 
   <p align="left">
-    An NFL data scraper that's not that great, but it didn't have a lot to work with!
- </p>
+Semantic feature identification, discovery and extraction of real-time and historical NFL data.
+</p>
 </p>
 
 ## Why?
-Due to the litigious nature of the NFL, getting simple game data is not possible. This creates makes any computer the ground truth on the latest in NFL data! Power to the people! ✊✊✊✊
+Provide an API for NFL game data. ✊✊✊✊
