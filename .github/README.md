@@ -1,6 +1,7 @@
 <p align="left">
-  <img align="right" src=../public/images/logo.png height="150px">
-
+<a href="https://www.youtube.com/watch?v=kDgFulxbwIk">
+  <img align="right" src=../public/images/logo.png width=150 alt="brodie.croyle">
+</a>
   <h3 align="left">brodie.croyle</h3>
 
   <p align="left">
