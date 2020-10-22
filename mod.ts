@@ -2,5 +2,5 @@
 
 // Brodie Croyle baby!
 export {
-} from "./index.ts";
-export { BrodieCroyle } from "./index.ts";
+} from "./WikiMedia.ts";
+export { WikiMedia } from "./WikiMedia.ts";
