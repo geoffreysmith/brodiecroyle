@@ -4,7 +4,7 @@
   <h3 align="left">brodie.croyle</h3>
 
   <p align="left">
-    An NF game scraper that's not that great, but it didn't have a lot to work with!
+    An NFL data scraper that's not that great, but it didn't have a lot to work with!
  </p>
 </p>
 
