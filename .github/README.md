@@ -2,14 +2,10 @@
 <p align="center">
   <img align="right" src=../public/images/logo.png height="150px">
 
-
   <h3 align="left">brodie.croyle</h3>
 
-  <p align="center">
+  <p align="left">
     An NF game scraper that's not that great, but it didn't have a lot to work with!
- </p>
- <p align="center">
-  <img src="https://opencollective.com/nestdotland/tiers/badge.svg" />
  </p>
 ## Why?
 
